@@ -1,4 +1,4 @@
-# Philipp Guschl — Agentic Engineer
+# Philipp — Agentic Engineer
 
 > I don't claim what AI can do. I measure it.
 
@@ -37,4 +37,4 @@ how I build with AI.
 
 ---
 
-📍 Germany · 𝕏 [@HansP555](https://x.com/HansP555) · ▶️ AI Stube on YouTube
+📍 Germany · ▶️ [AI Stube on YouTube](https://www.youtube.com/@DieAIStube)
