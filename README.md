@@ -24,7 +24,7 @@ OpenCode and local LLMs — and building the **systems around them**.
 | Repo | What it is |
 |---|---|
 | [`agency-orchestrator-bridge`](https://github.com/guschi18/agency-orchestrator-bridge) | Zero-dependency Node bridge for a human-gated multi-agent pipeline — 135 tests, merge only after live re-check |
-| [`wispher`](https://github.com/wispher) | Fully offline push-to-talk speech-to-text (faster-whisper, CUDA/CPU) — audio never leaves the machine |
+| [`wispher`](https://github.com/guschi18/wispher) | Fully offline push-to-talk speech-to-text (faster-whisper, CUDA/CPU) — audio never leaves the machine |
 | [`vibe-coder-control-center`](https://github.com/guschi18/vibe-coder-control-center) | VS Code extension: AI skills, hooks and prompts one click into any project |
 | [`x-bookmarks-extension`](https://github.com/guschi18/x-bookmarks-extension) | Manifest V3 Chrome extension: X bookmark sync incl. reverse flow |
 | [`freetoken-doku`](https://github.com/guschi18/freetoken-doku) | Operating a 35B MoE model on a 16 GB GPU: setup, two-model ops, kernel debugging logs |
